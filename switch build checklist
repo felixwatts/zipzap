@@ -1,0 +1,8 @@
+- add/remove music 2-4
+- change package name in manifest
+- change app name in resources
+- set Z.isDemo
+- bump version in manifest
+- Remove any cheats
+- Push correct screen after loading screen.
+
